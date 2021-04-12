@@ -4,7 +4,7 @@ This repository contain the accompanying resources for <span style="color:blue">
 > Jan Wira Gotama Putra, Simone Teufel, Takenobu Tokunaga. 2021. Parsing Argumentative Structure in English-as-Foreign-Language Essays. In the Proceedings of the Sixteenth Workshop on Innovative Use of NLP for Building Educational Applications, pages XX-YY. April XX 2021. Association for Computational Linguistics.  
 
 # Dataset
-- You can download the dataset at <span style="color:blue">[link to be prepared]</span>
+Please check the [ICNALE-AS2R](https://github.com/wiragotama/ICNALE-AS2R) page for downloading the corpus.
 
 # Data preparation
 - ```data/``` folder contains the file structure to prepare the dataset
