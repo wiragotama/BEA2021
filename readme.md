@@ -1,7 +1,7 @@
 # About
-This repository contain the accompanying resources for <span style="color:blue">[my BEA2021 paper]</span>.
+This repository contain the accompanying resources for [my BEA2021 paper](https://www.aclweb.org/anthology/2021.bea-1.10/).
 
-> Jan Wira Gotama Putra, Simone Teufel, Takenobu Tokunaga. 2021. Parsing Argumentative Structure in English-as-Foreign-Language Essays. In the Proceedings of the Sixteenth Workshop on Innovative Use of NLP for Building Educational Applications, pages XX-YY. April XX 2021. Association for Computational Linguistics.  
+> Jan Wira Gotama Putra, Simone Teufel, Takenobu Tokunaga. 2021. Parsing Argumentative Structure in English-as-Foreign-Language Essays. In the Proceedings of the Sixteenth Workshop on Innovative Use of NLP for Building Educational Applications, Association for Computational Linguistics, pages 97-109. 20 April 2021. 
 
 # Dataset
 Please check the [ICNALE-AS2R](https://github.com/wiragotama/ICNALE-AS2R) page for downloading the corpus.
