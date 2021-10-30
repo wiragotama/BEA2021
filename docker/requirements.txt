@@ -1,6 +1,7 @@
+bs4
 nltk
 scipy
 transformers==2.8.0
 sentence-transformers
-pip install bert-serving-server
-pip install bert-serving-client
+bert-serving-server
+bert-serving-client
